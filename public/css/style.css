@@ -2,3 +2,12 @@ body {
   background-color: #333;
   color: white;
 }
+
+a {
+  color: yellow;
+  font-size: 20px; 
+}
+
+a:hover {
+ color: white;
+}
